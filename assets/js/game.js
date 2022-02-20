@@ -107,5 +107,7 @@ var fight = function(enemyName) {
       break;
     }
   } 
+
+  
   // testing out somthing :)
   
