@@ -106,5 +106,6 @@ var fight = function(enemyName) {
       window.alert('You have lost your robot in battle! Game Over!');
       break;
     }
-  }
+  } 
+  // testing out somthing :)
   
